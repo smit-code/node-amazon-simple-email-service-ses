@@ -1,0 +1,1 @@
+# node-amazon-simple-email-service-ses
