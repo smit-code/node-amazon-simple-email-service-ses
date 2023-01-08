@@ -37,4 +37,4 @@ const createSendEmailCommand = (toAddress, fromAddress) => {
     });
   };
 
-  module.exports = createSendEmailCommand
+module.exports = createSendEmailCommand
