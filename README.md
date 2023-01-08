@@ -1,1 +1,1 @@
-# node-amazon-simple-email-service-ses
+# aws-simple-sms-services
